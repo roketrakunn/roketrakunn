@@ -8,13 +8,16 @@ i care about control, performance, and understanding systems from the inside out
 ### languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86%20Assembly-000000?style=for-the-badge)
+![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-000000?style=for-the-badge)
+![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-2C2C2C?style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -33,16 +36,20 @@ i care about control, performance, and understanding systems from the inside out
 
 ### operating systems
 
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ### what i'm working on
 
-- experimenting with a **just-in-time compiler** to better understand runtimes, code generation, and performance
-- designing **DevsArena**, a long-term systems
+- experimenting with a **just-in-time compiler** to understand runtimes, code generation, and performance and possibly write my own language.
+- designing **DevsArena**, Your dream land.
+- Worried about school.
+
 
 
 
