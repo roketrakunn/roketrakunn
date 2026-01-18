@@ -1,7 +1,6 @@
 ## hi, i'm roket
 
 i like building low-level tools.
-i care about control, performance, and understanding systems from the inside out.
 
 ---
 
@@ -48,7 +47,7 @@ i care about control, performance, and understanding systems from the inside out
 
 - experimenting with a **just-in-time compiler** to understand runtimes, code generation, and performance and possibly write my own language.
 - designing **DevsArena**, Your dream land.
-- Worried about school.
+- Worrying about school.
 
 
 
