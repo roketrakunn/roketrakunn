@@ -9,7 +9,7 @@ I like buildng low level tools.
 - Zig   (still very limited)
 - Java  (When needed)
 - Python  (When needed)
-- Bash  (Well I use Zsh)
+- Bash  
 - Linux   (YES I DO USE ARAC BTW)
 
 ### current focus
