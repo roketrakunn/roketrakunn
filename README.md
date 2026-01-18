@@ -1,6 +1,6 @@
 ## hi, i'm roket
 
-i like building low-level tools.
+I craft , weld, and build stuff.
 
 ---
 
